@@ -24,4 +24,4 @@ If individual schools are missing from the data set or you would like to trouble
 https://projects.propublica.org/nonprofits/
 
 ### Process
-Ratios are calculated for comparison over time with peer, aspirant, etc. schools.
+Ratios are calculated for comparison over time with other lib arts schools.
