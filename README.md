@@ -7,6 +7,12 @@ Instructions and code to download and create financial health metrics with publi
 * Return Net Assets Ratio
 * Net Operating Revenues Ratio
 
+These ratios are combined into an index called the Composite Financial Index or CFI.
+
+### Source
+The CFI was developed by KPMG; Prager, Sealy & Co., LLC.; and BearingPoint, Inc. The Department of Education ratios and composite were developed by KPMG Peat Marwick. 
+
+### Data
 IRS Form 990 Extract data files and codebooks can be found here:
 
 https://www.irs.gov/statistics/soi-tax-stats-annual-extract-of-tax-exempt-organization-financial-data
