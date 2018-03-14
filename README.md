@@ -22,3 +22,6 @@ Also needed are some data elements from the IPEDS finance survey (total expenses
 If individual schools are missing from the data set or you would like to troubleshoot them individually, you might have some success finding their 990 here:
 
 https://projects.propublica.org/nonprofits/
+
+### Process
+Ratios are calculated for comparison over time with peer, aspirant, etc. schools.
