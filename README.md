@@ -6,4 +6,4 @@ Form 990 Extract data files and codebooks can be found here:
 
 https://www.irs.gov/statistics/soi-tax-stats-annual-extract-of-tax-exempt-organization-financial-data
 
-Also needed are some data elements from the IPEDS finance survey and must be merged with 990 data via EIN number.
+Also needed are some data elements from the IPEDS finance survey that must be merged with 990 data via EIN number.
