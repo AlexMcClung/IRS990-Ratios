@@ -2,12 +2,14 @@
 
 Instructions and code to download and create financial health metrics with publicly available IRS 990 data
 
-* Primary Reserve Ratio - available reserves
+* Primary Reserve Ratio - available resources
 * Viability Ratio - debt in relationship to available reserves
-* Return on Net Assets Ratio - overall change in wealth
-* Net Operating Revenues Ratio - effectiveness of operations
+* Return on Net Assets Ratio (%) - change in wealth in terms of assets performance
+* Net Operating Revenues Ratio (%) - results of operations
 
 These ratios are combined into an index called the Composite Financial Index or CFI.
+
+Each of these indicators has a threshold associated with it that is used to gauge health in that area.
 
 ### Source
 The CFI was developed by KPMG; Prager, Sealy & Co., LLC.; and BearingPoint, Inc. The Department of Education ratios and composite were developed by KPMG Peat Marwick. 
