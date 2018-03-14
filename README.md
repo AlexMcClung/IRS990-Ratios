@@ -2,10 +2,10 @@
 
 Instructions and code to download and create financial health metrics with publicly available IRS 990 data
 
-* Primary Reserve Ratio
-* Viability Ratio
-* Return Net Assets Ratio
-* Net Operating Revenues Ratio
+* Primary Reserve Ratio - available reserves
+* Viability Ratio - debt in relationship to available reserves
+* Return on Net Assets Ratio - overall change in wealth
+* Net Operating Revenues Ratio - effectiveness of operations
 
 These ratios are combined into an index called the Composite Financial Index or CFI.
 
